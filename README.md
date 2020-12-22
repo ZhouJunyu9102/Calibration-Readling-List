@@ -84,10 +84,23 @@ Estimation using Deep Ensembles](https://arxiv.org/pdf/1612.01474.pdf). InNIPS 2
 <h2 id="Bias"> Bias </h2>
 
 *  Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson, Gianluca Bontempi. 2015. [Calibrating Probability with Undersampling
-for Unbalanced Classification](http://www.oliviercaelen.be/doc/SSCI_calib_final.pdf). On Conference 2015 IEEE Symposium Series on Computational Intelligence (SSCI)At: Cape Town, South Africa
+for Unbalanced Classification](http://www.oliviercaelen.be/doc/SSCI_calib_final.pdf). 2015 IEEE Symposium Series on Computational Intelligence (SSCI), Cape Town, South Africa.
 
 
 <h2 id="Cutting_Edge"> Cutting Edge </h2>
 
-*  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
+*  Volodymyr Kuleshov and Percy S Liang. 2015. [Calibrated structured prediction](https://cs.stanford.edu/~pliang/papers/calibration-nips2015.pdf). In Advances in Neural Information Processing Systems, pages 3474–3482.
 
+*  Meelis Kull, Miquel Perello-Nieto, Markus Kängsepp, Telmo Silva Filho, Hao Song, Peter Flach. 2019. [Beyond temperature scaling: Obtaining well-calibrated multiclass probabilities with Dirichlet calibration](https://arxiv.org/pdf/1910.12656). In NeurIPS 2019.
+
+*  Khanh Nguyen and Hong Yu. 2020. [Calibrating Structured Output Predictors for Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-main.188.pdf). In Proceedings of ACL 2020.
+
+*  Carsten F. Dormann. 2020. [Calibration of probability predictions from machine‐learning and statistical models](https://onlinelibrary.wiley.com/doi/epdf/10.1111/geb.13070). In Global Ecology and Biogeography.
+
+*  Amir Rahimi, Amirreza Shaban, Ching-An Cheng, Richard Hartley, Byron Boots. 2020. [Intra Order-preserving Functions for Calibration of Multi-Class Neural Networks](https://arxiv.org/pdf/2003.06820.pdf). In NeurIPS 2020.
+
+*  Taehee Jung, Dongyeop Kang, Hua Cheng, Lucas Mentch, Thomas Schaaf. 2020. [Posterior Calibrated Training on Sentence Classification Tasks](https://www.aclweb.org/anthology/2020.acl-main.242.pdf). In ACL 2020.
+
+*  Kartik Gupta, Amir Rahimi, Thalaiyasingam Ajanthan, Thomas Mensink, Cristian Sminchisescu, Richard Hartley. 2020. [Calibration of Neural Networks using Splines](https://arxiv.org/pdf/2006.12800). In Arxiv.
+
+*  Tim Leathart, Maksymilian Polaczuk. 2020. [Temporal Probability Calibration](https://arxiv.org/pdf/2002.02644). In Arxiv.
