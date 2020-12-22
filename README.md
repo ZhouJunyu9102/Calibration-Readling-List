@@ -17,7 +17,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 
 *  COOKE, W.E. 1906. [Weighting Forecasts](https://journals.ametsoc.org/view/journals/mwre/34/1/1520-0493_1906_34_23_faviwa_2_0_co_2.xml?tab_body=pdf). Monthly Weather Review, 34, 274-275.
 
-*  G. W. Brier. 1944. [erification of a Forecaster's Confidence and the Use of Probability Statements in Weather Forecastin](ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_researchpapers/QC852U55no16.pdf).   Research Paper No. 16, U.S. Weather Bureau, Washington, D.C.
+*  G. W. Brier. 1944. [Verification of a Forecaster's Confidence and the Use of Probability Statements in Weather Forecastin](ftp://ftp.library.noaa.gov/docs.lib/htdocs/rescue/wb_researchpapers/QC852U55no16.pdf).   Research Paper No. 16, U.S. Weather Bureau, Washington, D.C.
 
 *  G. W. Brier. 1950. [Verification of forecasts expressed in terms of probability](https://pdfs.semanticscholar.org/feee/6551179612b9691f021b583d8a99b81b9b86.pdf?_ga=2.142334130.1892078248.1608647465-258134547.1605600056). Monthly Weather Review.
 
