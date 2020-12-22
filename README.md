@@ -9,6 +9,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 *  [Ensemble](#Ensemble)
 *  [Sampling](#Sampling)
 *  [Others](#Others)
+*  [Bias](#Bias)
 *  [Cutting Edge](#Cutting_Edge)
 
 <h2 id="History"> History </h2>
@@ -35,23 +36,56 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 
 *  Alexandru Niculescu-Mizil , Rich Caruana. 2005. [Predicting Good Probabilities With Supervised Learning](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf). In Proceedings of the 22nd international conference on Machine learning, August, 2005, Pages 625–632.
 
+*  Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger. 2017. [On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599). In Proceedings of the 34th International Conference on Machine Learning, ICML 2017, Sydney, NSW, Australia, 6-11 August 2017, pages 1321–1330.
+
+*  Rafael Müller, Simon Kornblith, Geoffrey Hinton. 2019. [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629). In NeurIPS 2019.
+
+*  Aviral Kumar, Sunita Sarawagi. 2019. [Calibration of Encoder Decoder Models for Neural Machine Translation](https://arxiv.org/pdf/1903.00802). In ICLR Debugging Machine Learning Models Workshop.
+
+*  Shuo Wang, Zhaopeng Tu, Shuming Shi, Yang Liu. 2020. [On the Inference Calibration of Neural Machine Translation](https://arxiv.org/pdf/2005.00963). In Proceedings of ACL 2020.
+
+*  Shrey Desai, Greg Durrett. 2020. [Calibration of Pre-trained Transformers](https://arxiv.org/pdf/2003.07892). In Proceedings of EMNLP 2020.
 
 
 <h2 id="Recalibration"> Recalibration </h2>
 
-*  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
+*  John C. Platt. 2000. [Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods](https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000/Probabilistic-Outputs-for-Support-Vector-Machines-and-Comparisons-to-Regularized-Likelihood-Methods.pdf). Advances in Large Margin Classi-fiers, pages 61–74.
+
+*  Zadrozny,  Bianca  and  Elkan,  Charles. 2001. [Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers](https://cseweb.ucsd.edu/~elkan/calibrated.pdf). In ICML, pp. 609–616, 2001.
+
+*  Zadrozny, Bianca and Elkan, Charles. [Transforming classifier scores into accurate multiclass probability estimates](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7457&rep=rep1&type=pdf). In KDD, pp. 694–699, 2002.
+
+*  Mahdi Pakdaman Naeini, Gregory F. Cooper, and Milos Hauskrecht. [Obtaining Well Calibrated Probabilities Using Bayesian Binning](https://people.cs.pitt.edu/~milos/research/AAAI_Calibration.pdf). In Twenty-Ninth AAAI Conference on Artificial Intelligence.
+
 
 <h2 id="Ensemble"> Ensemble </h2>
 
-*  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
+*  Balaji Lakshminarayanan, Alexander Pritzel, Charles Blundell. 2017. [Simple and Scalable Predictive Uncertainty
+Estimation using Deep Ensembles](https://arxiv.org/pdf/1612.01474.pdf). InNIPS 2017.
+
+*  Steven Reich, David Mueller, Nicholas Andrews. 2020. [Ensemble Distillation for Structured Prediction: Calibrated, Accurate, Fast---Choose Three](https://arxiv.org/pdf/2010.06721). In EMNLP 2020.
+
 
 <h2 id="Sampling"> Sampling </h2>
 
-*  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
+*  Yarin Gal and Zoubin Ghahramani. 2016. [Dropout as abayesian approximation: Representing model uncertainty in deep learning](https://arxiv.org/pdf/1506.02142.pdf). In international conference on machine learning, pages 1050–1059.
+
+*  Alex Kendall and Yarin Gal. 2017. [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf). In NIPS 2017.
 
 <h2 id="Others"> Others </h2>
 
-*  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
+*  Simon A. A. Kohl, Bernardino Romera-Paredes, Clemens Meyer, Jeffrey De Fauw, Joseph R. Ledsam, Klaus H. Maier-Hein, S. M. Ali Eslami, Danilo Jimenez Rezende, Olaf Ronneberger. 2018. [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/pdf/1806.05034). In NeurIPS 2018.
+
+*  Simon A. A. Kohl, Bernardino Romera-Paredes, Klaus H. Maier-Hein, Danilo Jimenez Rezende, S. M. Ali Eslami, Pushmeet Kohli, Andrew Zisserman, Olaf Ronneberger. 2019. [A Hierarchical Probabilistic U-Net for Modeling Multi-Scale Ambiguities](https://arxiv.org/pdf/1905.13077). In Arxiv.
+
+*  Christian F. Baumgartner, Kerem C. Tezcan, Krishna Chaitanya, Andreas M. Hötker, Urs J. Muehlematter, Khoschy Schawkat, Anton S. Becker, Olivio Donati, Ender Konukoglu. 2019. [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/pdf/1906.04045). In MICCAI 2019.
+
+
+<h2 id="Bias"> Bias </h2>
+
+*  Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson, Gianluca Bontempi. 2015. [Calibrating Probability with Undersampling
+for Unbalanced Classification](http://www.oliviercaelen.be/doc/SSCI_calib_final.pdf). On Conference 2015 IEEE Symposium Series on Computational Intelligence (SSCI)At: Cape Town, South Africa
+
 
 <h2 id="Cutting_Edge"> Cutting Edge </h2>
 
