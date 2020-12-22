@@ -3,7 +3,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 
 ---
 
-*  [History](#History)
+*  [Forecasting](#Forecasting)
 *  [Machine Learning](#Machine_Learning)
 *  [Recalibration](#Recalibration)
 *  [Ensemble](#Ensemble)
@@ -12,7 +12,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 *  [Bias](#Bias)
 *  [Cutting Edge](#Cutting_Edge)
 
-<h2 id="History"> History </h2>
+<h2 id="Forecasting"> Forecasting </h2>
 
 *  COOKE, W.E. 1906. [Forecasts and Verifications in Western Australia](https://journals.ametsoc.org/view/journals/mwre/34/6/1520-0493_1906_34_274b_wf_2_0_co_2.xml?tab_body=pdf). Monthly Weather Review, 34, 23-24.
 
