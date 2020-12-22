@@ -4,7 +4,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 ---
 
 *  [History](#History)
-*  [Machine Learning](#Machine Learning)
+*  [Machine Learning](#Machine_Learning)
 *  [Recalibration](#Recalibration)
 *  [Ensemble](#Ensemble)
 *  [Sampling](#Sampling)
@@ -15,7 +15,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 
 *  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
 
-<h2 id="Machine Learning"> Machine Learning </h2>
+<h2 id="Machine_Learning"> Machine Learning </h2>
 
 *  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
 
@@ -35,7 +35,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 
 *  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
 
-<h2 id="Cutting Edge"> Cutting Edge </h2>
+<h2 id="Cutting_Edge"> Cutting Edge </h2>
 
 *  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
 
