@@ -61,7 +61,7 @@ This is a calibration reading list maintained by the Beijing Language and Cultur
 <h2 id="Ensemble"> Ensemble </h2>
 
 *  Balaji Lakshminarayanan, Alexander Pritzel, Charles Blundell. 2017. [Simple and Scalable Predictive Uncertainty
-Estimation using Deep Ensembles](https://arxiv.org/pdf/1612.01474.pdf). InNIPS 2017.
+Estimation using Deep Ensembles](https://arxiv.org/pdf/1612.01474.pdf). In NIPS 2017.
 
 *  Steven Reich, David Mueller, Nicholas Andrews. 2020. [Ensemble Distillation for Structured Prediction: Calibrated, Accurate, Fast---Choose Three](https://arxiv.org/pdf/2010.06721). In EMNLP 2020.
 
